@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed:
 
 1.  Clone the repository:
 
-        `git clone https://github.com/your-username/books-app-backend.git`
+        `git clone https://github.com/dxtaner/books-app-backend.git`
         `cd books-app-backend`
     
 
